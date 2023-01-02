@@ -8,3 +8,5 @@ The user can be a Tourist or a Buyer (it's a class that extends the Tourist) and
 The game was created for the classes at University. The code was written in Java with the use of elements from Swing. More functionality will be added in the future.
 
 The examples of the paintings were taken from the https://unsplash.com/s/photos/painting website.
+
+The more extended version of the project can be found at: https://gitlab.com/alexrumi2000/artgallery.
